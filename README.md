@@ -2,7 +2,7 @@
 
 ### Ola! sou Rosemary, estudante do programa NExt (Nova Experiência de Trabalho) na CESAR School
 <p>
-  Sou engenheira eletricista, graduada pela UPE. Possuo algumas pós-graduações em áreas diversas. Minha carreira profissional foi construida em Indústrias nacionais e multinacionais dos segmentos: Eletroeletrônico, Automotivo, Eólico e de Alimentos. Pricipais áreas de atuação no chão de fábrica : Engenharia de Processos, Gestão da Qualidade, Engenharia de Produtos, Manufatura, Sistemas de Gestão da Segurança de alimentos.
+  Sou engenheira eletricista, graduada pela UPE. Possuo algumas pós-graduações em áreas diversas. Minha carreira profissional foi construida em Indústrias nacionais e multinacionais dos segmentos: Eletroeletrônico, Automotivo, Eólico e de Alimentos. Pricipais áreas de atuação no chão de fábrica : Engenharia de Processos, Gestão da Qualidade, Engenharia de Produtos, Manufatura, Sistemas de Gestão da Segurança de Alimentos.
 <p>
 
 - 💻 Aluna do Next 2023 (Cesar School)
