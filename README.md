@@ -7,8 +7,9 @@
 
 - 💻 Aluna do Next 2023 (Cesar School)
 - 🧑‍🎓 Graduação em Engenharia Eletrica, modalidade Eletrônica
-- 🖼️ Pergunte-me por artes, música, filmes, viagens
 - 🏭 Chão de Fábrica é onde tudo acontece
+- 🖼️ Pergunte-me sobre artes, música, filmes, viagens
+
   
 <p align="left">
   <a href="https://www.linkedin.com/in/rosegallindo" alt="Linkedin" target="_blank">
