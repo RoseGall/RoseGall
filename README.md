@@ -1,12 +1,15 @@
 
 
-### Ola! sou Rosemary, engenheira eletricista e estudante do programa NExt (Nova Experiência de Trabalho) na CESAR School
-<p>
+
+<h3>
+Ola, sou Rosemary, engenheira eletricista e estudante do programa NExt na CESAR School  
+</h3>
+
 - 💻 Aluna do Next 2023 (CESAR School)
-- 🧑‍🎓 Graduação em Engenharia Eletrica, modalidade Eletrônica
+- 🧑‍🎓 Graduação em Engenharia Eletrônica
 - 🏭 Chão de Fábrica é onde tudo acontece
 - 🖼️ Pergunte-me sobre artes, música, filmes, viagens
-<p>
+
 
 
 
