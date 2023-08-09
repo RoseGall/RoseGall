@@ -1,14 +1,14 @@
 
 
 
-<h3>
-Ola, sou Rosemary, engenheira eletricista e estudante do programa NExt na CESAR School  
-</h3>
+<h4>
+Rosemary Gallindo, engenheira e estudante no NExT na CESAR School  
+</h4>
 
 - 💻 Aluna do Next 2023 (CESAR School)
 - 🧑‍🎓 Graduação em Engenharia Eletrônica
 - 🏭 Chão de Fábrica é onde tudo acontece
-- 🖼️ Pergunte-me sobre artes, música, filmes, viagens
+- 🖼️ Amo viajar para lugares pitorescos conhecendo novas culturas
 
 
 
