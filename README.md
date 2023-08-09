@@ -8,7 +8,7 @@ Rosemary Gallindo, engenheira e estudante no NExT na CESAR School
 - 💻 Aluna do Next 2023 (CESAR School)
 - 🧑‍🎓 Graduação em Engenharia Eletrônica
 - 🏭 Chão de Fábrica é onde tudo acontece
-- 🖼️ Amo viajar para lugares pitorescos conhecendo novas culturas
+- 🖼️ Amo viajar e conhecer novas culturas
 
 
 
